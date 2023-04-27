@@ -5,7 +5,6 @@
 }
 
 .body{
-    /* background: url("../img/bg.jpg");  */
     background: url("https://images4.alphacoders.com/106/1061238.jpg");
     min-height: 100vh;
     background-size: 100vw 100vh;
@@ -37,7 +36,6 @@
 }
 
 #board{
-    /* background: linear-gradient(rgb(238, 169, 31), rgb(241, 241, 66)); */
     background: url("https://images.unsplash.com/photo-1534171472159-edb6d1e0b63c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2FuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60");
     width: 90vmin;
     height: 92vmin;
@@ -61,7 +59,6 @@
 }
 
 .food{
-    /* background: linear-gradient(red, purple); */
     background: url("../img/apple.jpg");
     border: .25vmin solid black;
     border-radius: 8px;
